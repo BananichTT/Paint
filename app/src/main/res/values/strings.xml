@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paint</string>
+    <string name="new_btn">AddNew</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+</resources>
